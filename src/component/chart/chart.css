@@ -1,0 +1,21 @@
+.generate-chat-button {
+    background-color: #017EFF !important;
+    text-transform: uppercase;
+    min-width: 50px;
+    margin-right: 10px;
+}
+
+.generate-chat-footer {
+    background-color: #DDDEE1;
+    padding: 15px 40px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+
+}
+
+.chart {
+    padding-top: 25px;
+}
